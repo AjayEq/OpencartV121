@@ -16,7 +16,7 @@ public class TC001_AccountRegTest extends BaseClass{
 		
 		try {		
 		//HomePage
-		log.info("===== Test Started: verifyLogin =====");
+		log.info("======= Test Started: verifyLogin =======");
 		HomePage hp = new HomePage(driver);
 		hp.clickMyAccount();
 		hp.clickRegister();
