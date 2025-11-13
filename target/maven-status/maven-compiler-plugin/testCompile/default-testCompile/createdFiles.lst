@@ -1,0 +1,5 @@
+pageObjects\HomePage.class
+testBase\BaseClass.class
+pageObjects\AccountRegPage.class
+pageObjects\BasePage.class
+testCases\TC001_AccountRegTest.class
